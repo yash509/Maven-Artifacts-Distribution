@@ -1,0 +1,10 @@
+<distributionManagement>
+	<repository>
+		<id>maven-releases</id>
+		<url>http://52.66.248.23:8081/repository/maven-releases/</url> 
+	</repository>
+	<snapshotRepository>
+		<id>maven-snaphots</id>
+		<url>http://52.66.248.23:8081/repository/maven-snapshots/</url> 
+	</snapshotRepository>
+	</distributionManagement>
